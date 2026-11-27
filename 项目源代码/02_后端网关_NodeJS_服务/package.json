@@ -1,0 +1,17 @@
+{
+  "name": "smart-hotel-server",
+  "version": "1.0.0",
+  "description": "Backend API for Smart Hotel HarmonyOS App (SMS & MySQL Auth)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mqtt": "^5.16.1",
+    "mysql2": "^3.11.3"
+  }
+}

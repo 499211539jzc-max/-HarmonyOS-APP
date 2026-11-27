@@ -1,0 +1,12 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Second",
+    "pages/PrivacyPolicy",
+    "pages/UserAgreement",
+    "pages/RoomControl",
+    "pages/PublicFacility",
+    "pages/MyInfo",
+    "pages/RoomService"
+  ]
+}
